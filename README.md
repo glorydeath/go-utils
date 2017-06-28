@@ -1,3 +1,3 @@
 # go-utils
 
-A tool sets for solving some general golang problems.
+A tool set for solving some general golang problems.
